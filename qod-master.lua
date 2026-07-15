@@ -1,0 +1,7 @@
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Anzzckc/part1.lua/refs/heads/main/qodpart1.lua"))()
+end)
+task.wait(5)
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Anzzckc/part1.lua/refs/heads/main/qodpart2.lua"))()
+end)
